@@ -101,6 +101,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Mini Tools IR35 Calculator](https://mini-tools.uk/ir35) - Compare inside IR35 umbrella take-home pay with outside IR35 limited company assumptions.
 - [Mini Tools Stamp Duty Calculator](https://mini-tools.uk/stamp-duty) - Estimate SDLT for England and Northern Ireland, including first-time buyer and additional property cases.
 - [Mini Tools UK Dividend Tax Calculator](https://mini-tools.uk/dividend) - Estimate UK dividend tax using salary, other income, dividend allowance and dividend tax bands.
+- [VA Chapter 35 DEA Rates 2027 Calculator](https://colacalculator2027.com/va-chapter-35-dea-rates-2027/) - Free Official FY Dependents' Education Assistance (Chapter 35) monthly rate lookup by training time; runs client-side with no signup
 - [Mint](https://mint.intuit.com/) - Personal finance and budgeting tool
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
